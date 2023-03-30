@@ -1,6 +1,13 @@
 # Changelog
 
 
+## [1.10.1](https://github.com/googleapis/gapic-generator-python/compare/v1.10.0...v1.10.1) (2023-03-30)
+
+
+### Bug Fixes
+
+* Fix bug with quote replacement. ([#1613](https://github.com/googleapis/gapic-generator-python/issues/1613)) ([5268045](https://github.com/googleapis/gapic-generator-python/commit/5268045c34b36f4a89e00559bedde04d2a35bdd7))
+
 ## [1.10.0](https://github.com/googleapis/gapic-generator-python/compare/v1.9.1...v1.10.0) (2023-03-28)
 
 
